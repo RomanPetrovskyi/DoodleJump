@@ -1,0 +1,1791 @@
+fileFormatVersion: 2
+guid: b94720484a91dab43ade666039aad871
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: game-tiles@2x_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 990
+        width: 126
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881cc095fd2a45945852ddef299da8ab
+      internalID: 1750816740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles@2x_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 955
+        width: 126
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a58d60b9a84224aa7147ac5111ddb8
+      internalID: 2111183668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles@2x_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 918
+        width: 126
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23b90a0b8858534299c9fb0b210148e
+      internalID: 1455999620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles@2x_237
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 881
+        width: 126
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ec6888040e471429ff9f02ef3b65df
+      internalID: -649260699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles@2x_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 846
+        width: 126
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7b89727ddabb845bea981a4ec43f6d
+      internalID: -236272406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles@2x_238
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 801
+        width: 126
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694fe99f9a95bc441833a60e69876741
+      internalID: 558232276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles@2x_294
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 736
+        width: 126
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a072ee9e4107644a7edd183ff93009
+      internalID: 133488621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles@2x_370
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 661
+        width: 126
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df6b0ec41691a54da1ed23b8e8f9131
+      internalID: 531859722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles@2x_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 623
+        width: 126
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8b6ed0cb03b5246b6afbb7c244c997
+      internalID: 691928839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles@2x_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 587
+        width: 126
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158de005c8988714ba010dfc5b62f81c
+      internalID: -993075765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles@2x_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 551
+        width: 126
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88af38426e7d28f4faa1eed8159c4055
+      internalID: 1234161044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles@2x_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 515
+        width: 126
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0db5dcc2108c6841a22bf73b6e7f934
+      internalID: 162990294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles@2x_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 479
+        width: 126
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855cd1f0b3f5f7e4caa10419ce2a10c9
+      internalID: -1244731997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles@2x_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440
+        width: 126
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a689b60b7eb0247a4d8bff8ab71945
+      internalID: 1113827556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles@2x_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 385
+        width: 126
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f37aee4c7135c42ae4744309a3cf70
+      internalID: 699036260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles@2x_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 322
+        width: 126
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54102a8a4a212246af6c285278f3746
+      internalID: -1802487601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles@2x_9
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 733
+        width: 126
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98f53e10e3584445b32a5c4d0786a32
+      internalID: -1003906005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles@2x_10
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 698
+        width: 126
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018612592db740e4d93a6179e8ee31ef
+      internalID: 1564394329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles@2x_12
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 663
+        width: 126
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa5708cb9032ce4b8eef4d988c86398
+      internalID: 964214051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles@2x_13
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 551
+        width: 82
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e67ba0a1ea74984195a52cb2a7758ac
+      internalID: 2065103446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles@2x_14
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 551
+        width: 82
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eca07d64c95ab14f91d0de1a68d1b4f
+      internalID: 2130136971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles@2x_15
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 424
+        width: 167
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9795789b9246c224aba060740f16478c
+      internalID: 2089914375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles@2x_16
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 304
+        width: 167
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8ce1ba2623aa64baf15e0d3635a989
+      internalID: 1588508912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles@2x_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 184
+        width: 167
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af350b33e9cba444827667767020538
+      internalID: -1154136119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles@2x_18
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 184
+        width: 167
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443f80092e9d51c4daab22994926f12b
+      internalID: -407238244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles@2x_19
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 496
+        width: 167
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4fbb93e62e8eb34e85c5235c490ab42
+      internalID: -201633233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles@2x_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 129
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9baaaceeb554b9d4f82e6bd2d5c0de09
+      internalID: -98409707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles@2x_21
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 0
+        width: 129
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36589c51ae0fae74e95e15b5a6aaea1f
+      internalID: 239772685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles@2x_22
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 654
+        width: 129
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8554dd6ba1964d48abd44e432f9ea5b
+      internalID: 1242484126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles@2x_23
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 0
+        width: 137
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa508e8ed7cbf141b9c51721903c8a3
+      internalID: 541852617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles@2x_24
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 838
+        width: 129
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec14269442770614bb8f3c48f6c3f0c1
+      internalID: 207438973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles@2x_27
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 932
+        width: 162
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d58c109b2e30284d95874bcec89a29d
+      internalID: 310138628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles@2x_28
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 932
+        width: 162
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c22e5ab640e4e47b03ae9262617a22
+      internalID: 1900271789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles@2x_29
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 932
+        width: 162
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d659a7f5a269d438418a8b4eda21b3
+      internalID: 684506142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles@2x_30
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 932
+        width: 162
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0720e8922934ed847ac81975bc3f8077
+      internalID: 1584490301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles@2x_31
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 840
+        width: 162
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3caae7ccc6f802245bfa52681bcbeac4
+      internalID: -59777703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles@2x_32
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 418
+        width: 100
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e15b2889692cb4eba071c724407d7c
+      internalID: -1911157826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles@2x_33
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 785
+        width: 148
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c193a37f41972ff40bd0ad7eb44a9868
+      internalID: 491649592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles@2x_34
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 347
+        width: 89
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc496ba23eb470348b1fd8e991342dfb
+      internalID: 595546935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles@2x_35
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 584
+        width: 113
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac5a34e78be4de4db4c2104088edce5
+      internalID: -362907991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles@2x_36
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 176
+        width: 135
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e84d17b86ffdfc409f61bfd3e415f70
+      internalID: 2080415720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles@2x_37
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 0
+        width: 135
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729168f6a4f1ff043abaecac82d7045c
+      internalID: -2002019397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles@2x_38
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 956
+        width: 186
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640b413284785504d912aa71f96e2cf3
+      internalID: -262614113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles@2x_39
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 888
+        width: 186
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62eb097b789f51a428c7415774852916
+      internalID: 2060899322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles@2x_40
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 775
+        width: 171
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7198b145a5ed14c43ab4e681a2594528
+      internalID: 600787072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles@2x_41
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 615
+        width: 168
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3785a1ed84689524c878b7a8217fd6e5
+      internalID: 452085373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles@2x_42
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 365
+        width: 168
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37774a139665574a935b94c1bebc8dd
+      internalID: -2005045968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles@2x_43
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 739
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235c10bdb0400e346b1059ae1c1504f6
+      internalID: 1963245808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles@2x_44
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 802
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46d2ad3356ed7b4eabce78b58368c61
+      internalID: -1268722170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles@2x_45
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 418
+        width: 54
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec97e623705fab4589b88228334e6a8
+      internalID: 1456438062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles@2x_46
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 418
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724c81877999161409b96f49bf70b3c7
+      internalID: 1237701080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles@2x_47
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 341
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0cc1f326f70ed4daea3b785c0beee7
+      internalID: 514484775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles@2x_48
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 798
+        width: 79
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f7e7b5126713f4ab544642d553ee7e
+      internalID: 2016824404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles@2x_49
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 798
+        width: 79
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855d24407403c9447b0b0e22accf4090
+      internalID: -1743958315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles@2x_50
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 888
+        width: 79
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f249db4d4bb4ba14288fd8399f7f1103
+      internalID: -540325640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles@2x_51
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 512
+        width: 60
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f7320c92a2f0545be72a9e15bb25e0
+      internalID: 769041713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-tiles@2x_52
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 573
+        width: 58
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747d6679d4ec4e2458142fe32538be74
+      internalID: -596215204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DragPlatform_1
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 340
+        width: 173
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0de7b2a67b063a46b3007206967cf6b
+      internalID: -1701611204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DragPlatform_2
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 118
+        width: 181
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef85d1c2c90f0b44787a7680db7a24ee
+      internalID: 662402572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DragPlatform_3
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 27
+        width: 181
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497c5f60aa17b1a40acdd95fd0c0a600
+      internalID: -1680836237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DragPlatform_4
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 212
+        width: 208
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 267d8cd4a77a88045accd43453260ba8
+      internalID: -1805301164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      game-tiles@2x_202: 2014154990
+      game-tiles@2x_314: 1506314896
+      game-tiles@2x_99: -106273564
+      game-tiles@2x_257: 1822102334
+      game-tiles@2x_29: 684506142
+      game-tiles@2x_244: 1550007015
+      game-tiles@2x_106: 1713653307
+      game-tiles@2x_276: 244436650
+      game-tiles@2x_312: 1398736549
+      game-tiles@2x_205: -700862663
+      game-tiles@2x_216: -629272794
+      game-tiles@2x_248: -594969361
+      game-tiles@2x_149: 922984946
+      game-tiles@2x_152: 639781637
+      game-tiles@2x_22: 1242484126
+      game-tiles@2x_176: 841083810
+      game-tiles@2x_43: 1963245808
+      game-tiles@2x_93: -596729322
+      game-tiles@2x_363: -3095252
+      game-tiles@2x_70: -1007478710
+      game-tiles@2x_157: -821237903
+      game-tiles@2x_39: 2060899322
+      game-tiles@2x_165: -1389690082
+      game-tiles@2x_180: -779188718
+      game-tiles@2x_77: 1486813365
+      game-tiles@2x_323: 316906409
+      game-tiles@2x_251: -1739536374
+      game-tiles@2x_208: -1886278498
+      game-tiles@2x_203: -672098633
+      game-tiles@2x_307: 662997076
+      game-tiles@2x_223: 1264065393
+      game-tiles@2x_320: 32046678
+      game-tiles@2x_50: -540325640
+      game-tiles@2x_296: -606053574
+      game-tiles@2x_4: 162990294
+      game-tiles@2x_137: -1284261143
+      game-tiles@2x_347: 393569509
+      game-tiles@2x_200: -683824794
+      game-tiles@2x_303: 141522438
+      game-tiles@2x_242: 555689985
+      game-tiles@2x_81: 1564638278
+      game-tiles@2x_324: -90995805
+      game-tiles@2x_261: -923434014
+      game-tiles@2x_302: -1319108524
+      game-tiles@2x_359: 120548632
+      game-tiles@2x_225: 105385337
+      game-tiles@2x_184: 1518049741
+      game-tiles@2x_74: 1341536136
+      game-tiles@2x_282: -1392533030
+      game-tiles@2x_13: 2065103446
+      game-tiles@2x_284: -1064619258
+      game-tiles@2x_61: 975233301
+      game-tiles@2x_238: 558232276
+      game-tiles@2x_167: 1940152466
+      game-tiles@2x_24: 207438973
+      game-tiles@2x_207: -879267905
+      game-tiles@2x_118: 929298256
+      game-tiles@2x_123: 2115578687
+      game-tiles@2x_280: -1662023156
+      game-tiles@2x_289: -840208550
+      game-tiles@2x_108: -693007586
+      game-tiles@2x_183: 1088053042
+      game-tiles@2x_35: -362907991
+      game-tiles@2x_14: 2130136971
+      game-tiles@2x_52: -596215204
+      game-tiles@2x_115: -988217355
+      game-tiles@2x_95: 687704183
+      game-tiles@2x_304: -504727172
+      game-tiles@2x_198: -145276128
+      game-tiles@2x_171: -679921073
+      game-tiles@2x_297: -224863804
+      game-tiles@2x_0: 1750816740
+      game-tiles@2x_371: -190505967
+      game-tiles@2x_158: 1912926627
+      game-tiles@2x_114: -162396281
+      game-tiles@2x_310: 176434699
+      game-tiles@2x_113: -2033940524
+      game-tiles@2x_186: -1469353345
+      game-tiles@2x_288: -1659556310
+      game-tiles@2x_54: 1604804753
+      game-tiles@2x_44: -1268722170
+      game-tiles@2x_156: -1245325904
+      game-tiles@2x_16: 1588508912
+      game-tiles@2x_145: -873339171
+      game-tiles@2x_168: -850817581
+      game-tiles@2x_71: 533309160
+      DragPlatform_2: 662402572
+      game-tiles@2x_271: -1551287919
+      game-tiles@2x_194: -2115552195
+      game-tiles@2x_159: 1210135805
+      game-tiles@2x_339: 804878551
+      game-tiles@2x_91: -892670698
+      game-tiles@2x_188: -1189531454
+      game-tiles@2x_185: -1028155850
+      game-tiles@2x_92: 1480797321
+      game-tiles@2x_101: 1690697421
+      game-tiles@2x_362: -1510185373
+      game-tiles@2x_161: 1203319699
+      game-tiles@2x_300: 185103190
+      game-tiles@2x_286: 950335972
+      game-tiles@2x_133: -101216191
+      game-tiles@2x_233: -1216261969
+      game-tiles@2x_209: -412051915
+      game-tiles@2x_370: 531859722
+      game-tiles@2x_56: -1016299695
+      game-tiles@2x_281: 310742595
+      game-tiles@2x_38: -262614113
+      game-tiles@2x_306: -231325220
+      game-tiles@2x_361: -1704789691
+      game-tiles@2x_264: 807462267
+      game-tiles@2x_46: 1237701080
+      game-tiles@2x_331: 91974466
+      game-tiles@2x_285: -703660761
+      game-tiles@2x_84: -18357806
+      game-tiles@2x_64: 881607747
+      game-tiles@2x_134: -1438208659
+      game-tiles@2x_146: 237948780
+      game-tiles@2x_268: 1166351125
+      game-tiles@2x_75: -1667682480
+      game-tiles@2x_252: 156486751
+      game-tiles@2x_34: 595546935
+      game-tiles@2x_249: 2109957771
+      game-tiles@2x_355: -2100787257
+      DragPlatform_4: -1805301164
+      game-tiles@2x_195: 960623994
+      game-tiles@2x_170: -323996327
+      game-tiles@2x_27: 310138628
+      game-tiles@2x_227: 9685356
+      game-tiles@2x_76: -719475902
+      game-tiles@2x_255: 2023407768
+      game-tiles@2x_353: 874693179
+      game-tiles@2x_348: -1113712176
+      game-tiles@2x_36: 2080415720
+      game-tiles@2x_109: 829092197
+      game-tiles@2x_12: 964214051
+      game-tiles@2x_67: 4405289
+      game-tiles@2x_365: 911636735
+      game-tiles@2x_117: -14174746
+      game-tiles@2x_141: -711932215
+      game-tiles@2x_292: -329969082
+      game-tiles@2x_107: 1348911725
+      game-tiles@2x_51: 769041713
+      game-tiles@2x_294: 133488621
+      game-tiles@2x_172: -1523975823
+      game-tiles@2x_197: -1361741627
+      game-tiles@2x_5: -1244731997
+      game-tiles@2x_222: -100549525
+      game-tiles@2x_21: 239772685
+      game-tiles@2x_111: 1596814295
+      game-tiles@2x_37: -2002019397
+      game-tiles@2x_69: 354686321
+      game-tiles@2x_217: 1677477145
+      game-tiles@2x_130: -582401032
+      game-tiles@2x_138: -1070795092
+      game-tiles@2x_215: 1174851260
+      game-tiles@2x_10: 1564394329
+      game-tiles@2x_364: -927867826
+      game-tiles@2x_94: -406889915
+      game-tiles@2x_265: 1831554964
+      game-tiles@2x_163: 732879964
+      game-tiles@2x_97: -1746288125
+      game-tiles@2x_349: 1232743414
+      game-tiles@2x_356: 257812729
+      game-tiles@2x_340: -1296299722
+      game-tiles@2x_11: 2111183668
+      game-tiles@2x_143: 1159964468
+      game-tiles@2x_83: 215116134
+      game-tiles@2x_210: 2018154491
+      game-tiles@2x_58: 285569764
+      game-tiles@2x_1: 691928839
+      game-tiles@2x_60: -1411472488
+      game-tiles@2x_213: 778812212
+      game-tiles@2x_164: 1430045104
+      game-tiles@2x_253: 1323601763
+      game-tiles@2x_327: -1907870286
+      game-tiles@2x_26: 1455999620
+      game-tiles@2x_239: 1321773697
+      game-tiles@2x_47: 514484775
+      game-tiles@2x_367: 2121747715
+      game-tiles@2x_293: -329016307
+      game-tiles@2x_266: 1711570855
+      game-tiles@2x_182: -13153685
+      game-tiles@2x_129: -1895134555
+      game-tiles@2x_218: 137725630
+      game-tiles@2x_96: -1585989631
+      game-tiles@2x_89: -1014777449
+      game-tiles@2x_57: -1396595453
+      game-tiles@2x_68: 499812017
+      game-tiles@2x_119: -1861836439
+      game-tiles@2x_174: -2098550698
+      game-tiles@2x_140: -1051777100
+      game-tiles@2x_295: -1243733406
+      game-tiles@2x_73: -68574152
+      game-tiles@2x_351: -1241840251
+      game-tiles@2x_230: -791946091
+      game-tiles@2x_368: -966715892
+      game-tiles@2x_125: -818382397
+      game-tiles@2x_325: 69394867
+      game-tiles@2x_228: -679227762
+      game-tiles@2x_344: -1657236472
+      game-tiles@2x_142: -209394336
+      game-tiles@2x_290: 894799125
+      game-tiles@2x_243: 1108184052
+      game-tiles@2x_221: 1051666007
+      game-tiles@2x_150: 149297453
+      game-tiles@2x_90: 2086263019
+      game-tiles@2x_102: 418981208
+      game-tiles@2x_87: -1973635387
+      game-tiles@2x_275: -803491529
+      game-tiles@2x_9: -1003906005
+      game-tiles@2x_179: 1085445267
+      game-tiles@2x_352: 1988040806
+      game-tiles@2x_144: 1526627564
+      game-tiles@2x_206: 1029854992
+      game-tiles@2x_42: -2005045968
+      game-tiles@2x_98: -78690746
+      game-tiles@2x_235: -843384735
+      game-tiles@2x_151: -681578904
+      game-tiles@2x_336: -658192440
+      game-tiles@2x_305: -1134445144
+      game-tiles@2x_189: -1894462719
+      game-tiles@2x_343: 1711100169
+      game-tiles@2x_135: 1529484867
+      game-tiles@2x_354: 681225846
+      game-tiles@2x_181: -1386523484
+      game-tiles@2x_136: 1388971669
+      game-tiles@2x_258: 454122570
+      game-tiles@2x_301: 1166726559
+      game-tiles@2x_299: 1822356822
+      game-tiles@2x_229: -1570680189
+      game-tiles@2x_25: -236272406
+      game-tiles@2x_247: -576428769
+      game-tiles@2x_329: 1042308317
+      game-tiles@2x_32: -1911157826
+      game-tiles@2x_192: -144316131
+      game-tiles@2x_219: 402098920
+      game-tiles@2x_269: 133715959
+      game-tiles@2x_341: 170990573
+      game-tiles@2x_126: -555478532
+      game-tiles@2x_231: -1720979958
+      game-tiles@2x_246: 1374144247
+      game-tiles@2x_131: -423738390
+      game-tiles@2x_250: 1754588208
+      game-tiles@2x_65: -455996555
+      game-tiles@2x_45: 1456438062
+      game-tiles@2x_214: 1375513919
+      game-tiles@2x_335: 1345136921
+      game-tiles@2x_28: 1900271789
+      game-tiles@2x_85: -895273855
+      game-tiles@2x_309: 927776044
+      game-tiles@2x_232: 995349618
+      game-tiles@2x_240: -215113461
+      game-tiles@2x_267: 354470663
+      game-tiles@2x_124: 576056988
+      game-tiles@2x_55: -1399464276
+      game-tiles@2x_224: 805013904
+      game-tiles@2x_245: -428459432
+      game-tiles@2x_315: 1676447223
+      game-tiles@2x_234: -1988482672
+      game-tiles@2x_274: 921186227
+      game-tiles@2x_342: 843667317
+      game-tiles@2x_262: 1497184676
+      game-tiles@2x_196: 1890150510
+      game-tiles@2x_66: 714440916
+      game-tiles@2x_256: 35988790
+      game-tiles@2x_287: -1888330505
+      game-tiles@2x_162: -2083376448
+      game-tiles@2x_273: 2067732748
+      game-tiles@2x_59: -1241093759
+      game-tiles@2x_338: 345602795
+      game-tiles@2x_15: 2089914375
+      game-tiles@2x_317: -1966643991
+      game-tiles@2x_321: 788453394
+      game-tiles@2x_49: -1743958315
+      game-tiles@2x_369: 573579532
+      game-tiles@2x_7: 699036260
+      game-tiles@2x_204: -65749434
+      game-tiles@2x_311: 1073172975
+      game-tiles@2x_211: 1235585727
+      game-tiles@2x_173: 362913278
+      game-tiles@2x_322: -452209335
+      game-tiles@2x_330: -1672522389
+      game-tiles@2x_337: -1286160143
+      game-tiles@2x_110: 1673843466
+      game-tiles@2x_88: -2030434085
+      game-tiles@2x_316: -519452400
+      game-tiles@2x_278: -213518265
+      game-tiles@2x_86: -2133913318
+      game-tiles@2x_177: 873182510
+      game-tiles@2x_272: -680632694
+      game-tiles@2x_201: -1094192209
+      game-tiles@2x_31: -59777703
+      game-tiles@2x_313: -757677757
+      game-tiles@2x_326: 1956107664
+      game-tiles@2x_357: -865362252
+      game-tiles@2x_212: 1233952660
+      game-tiles@2x_366: 1373524349
+      game-tiles@2x_334: 1777280877
+      DragPlatform_1: 289879307
+      game-tiles@2x_166: -1384292291
+      game-tiles@2x_241: -978514697
+      game-tiles@2x_332: -350461773
+      game-tiles@2x_291: 1689924074
+      game-tiles@2x_112: 2027427773
+      game-tiles@2x_155: 1264701959
+      game-tiles@2x_105: 2118879438
+      game-tiles@2x_236: 896297128
+      game-tiles@2x_72: -1639258301
+      game-tiles@2x_3: 1234161044
+      game-tiles@2x_360: -849998632
+      game-tiles@2x_270: -953563702
+      DragPlatform_3: -1680836237
+      game-tiles@2x_48: 2016824404
+      game-tiles@2x_259: -979168603
+      game-tiles@2x_121: 1122023756
+      game-tiles@2x_191: -589547484
+      game-tiles@2x_23: 541852617
+      game-tiles@2x_19: -201633233
+      game-tiles@2x_139: 740071103
+      game-tiles@2x_104: -1777132685
+      game-tiles@2x_187: 1006114944
+      game-tiles@2x_147: 2086510555
+      game-tiles@2x_226: -1391002971
+      game-tiles@2x_283: 1711102508
+      game-tiles@2x_2: -993075765
+      game-tiles@2x_62: 1361530619
+      game-tiles@2x_30: 1584490301
+      game-tiles@2x_178: 570363086
+      game-tiles@2x_318: 1304887722
+      game-tiles@2x_220: 766783460
+      game-tiles@2x_319: 1106904875
+      game-tiles@2x_345: 372403647
+      game-tiles@2x_175: 561575254
+      game-tiles@2x_237: -649260699
+      game-tiles@2x_199: 1267342001
+      game-tiles@2x_260: 900513942
+      game-tiles@2x_63: 1592810208
+      game-tiles@2x_308: 1911049610
+      game-tiles@2x_333: 1862434097
+      game-tiles@2x_148: -234718164
+      game-tiles@2x_80: 2020981527
+      game-tiles@2x_358: -1493370883
+      game-tiles@2x_8: -1802487601
+      game-tiles@2x_346: 1774969063
+      game-tiles@2x_350: 2032140542
+      game-tiles@2x_103: -2143171092
+      game-tiles@2x_328: 1655880146
+      game-tiles@2x_6: 1113827556
+      game-tiles@2x_40: 600787072
+      game-tiles@2x_132: -1563415928
+      game-tiles@2x_17: -1154136119
+      game-tiles@2x_82: -914194475
+      game-tiles@2x_190: 127906227
+      game-tiles@2x_153: -1676779133
+      game-tiles@2x_20: -98409707
+      game-tiles@2x_41: 452085373
+      game-tiles@2x_122: -844886112
+      game-tiles@2x_160: -294562344
+      game-tiles@2x_154: 791369369
+      game-tiles@2x_116: -1297995753
+      game-tiles@2x_128: -42982006
+      game-tiles@2x_254: -1268706410
+      game-tiles@2x_263: 1043560969
+      game-tiles@2x_33: 491649592
+      game-tiles@2x_100: 121692194
+      game-tiles@2x_18: -407238244
+      game-tiles@2x_120: 1176182344
+      game-tiles@2x_79: 1319879527
+      game-tiles@2x_193: -240976473
+      game-tiles@2x_279: 153116055
+      game-tiles@2x_127: -266472486
+      game-tiles@2x_277: -1231831240
+      game-tiles@2x_169: -1648104523
+      game-tiles@2x_298: 1261302194
+      game-tiles@2x_78: -1717193701
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
